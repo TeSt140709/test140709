@@ -95,9 +95,7 @@ Keyboard shortcuts
 
 By default, while the browser is not in the foreground, the shortcut will be inactive.
 
-As of version 35 (Chrome), you can make the shortcuts work even when the browser is not in the foreground:
-
-see steps 1-7 above, change “In Chrome” to “Global” on step 6.
+As of version 35 (Chrome), you can make the shortcuts work even when the browser is not in the foreground: see steps 1-7 above, change “In Chrome” to “Global” on step 6.
 
 
 Gratitudes
