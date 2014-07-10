@@ -97,13 +97,7 @@ By default, while the browser is not in the foreground, the shortcut will be ina
 
 As of version 35 (Chrome), you can make the shortcuts work even when the browser is not in the foreground:
 
-1. Right-click on the `PoziTone` icon to the right of the address bar.
-2. Click on “Manage”.
-3. Scroll down the page.
-4. Click on the blue “Keyboard shortcuts” link.
-5. Find `PoziTone` in the list.
-6. Change “In Chrome” to “Global”.
-7. Click on “OK”.
+see steps 1-7 above, change “In Chrome” to “Global” on step 6.
 
 
 Gratitudes
