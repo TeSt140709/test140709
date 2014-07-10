@@ -115,8 +115,9 @@ Gratitudes
 Credits
 --------
 
-- The button icons are from [Gentleface Mono Icon Set](http://gentleface.com/free_icon_set.html) licensed under the [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/).
-- The appearance of the «`PoziTone` Options» and «Recent Tracks» pages -
+- The button icons — [Gentleface Mono Icon Set](http://gentleface.com/free_icon_set.html), [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/).
+- The Play icon — [Michael Rowe](http://www.thenounproject.com/Mikhail1986), [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/us/).
+- The appearance of the «`PoziTone` Options» and «Recent Tracks» pages:
   * Copyright 2014 The Chromium Authors. All rights reserved.
   * Use of this source code is governed by a BSD-style license that can be found in the [LICENSE](http://src.chromium.org/viewvc/chrome/trunk/src/LICENSE) file.
 - All trademarks used (trade names, logos, brands, names, service marks, etc.) are the property of their respective owners.
