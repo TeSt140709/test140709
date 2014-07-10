@@ -93,7 +93,7 @@ Keyboard shortcuts
 
 #### Demo: how to set up / change keyboards shortcuts
 
-[![Demo: how to set up / change PoziTone keyboards shortcuts](https://cloud.githubusercontent.com/assets/8120840/3534585/e3b12b5a-07ed-11e4-82e5-4aa4322a9484.png)](https://cloud.githubusercontent.com/assets/8120840/3534596/406df71a-07ee-11e4-85f0-42cf01bff5e3.gif)
+[![Demo: how to set up / change PoziTone keyboards shortcuts](https://cloud.githubusercontent.com/assets/8120840/3534655/a7c7ce58-07ef-11e4-89a5-c7b52e92b943.png)](https://cloud.githubusercontent.com/assets/8120840/3534660/b7bfb960-07ef-11e4-9102-7d1aa1b25496.gif)
 
 ### Global keyboard shortcuts (outside of the browser window)
 
