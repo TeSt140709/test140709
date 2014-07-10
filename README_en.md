@@ -91,7 +91,9 @@ Keyboard shortcuts
 6. Make any necessary changes.
 7. Click on “OK”.
 
-[![How to set up / change PoziTone keyboards shortcuts](https://cloud.githubusercontent.com/assets/8120840/3534585/e3b12b5a-07ed-11e4-82e5-4aa4322a9484.png)](https://cloud.githubusercontent.com/assets/8120840/3534596/406df71a-07ee-11e4-85f0-42cf01bff5e3.gif)
+#### Demo: how to set up / change keyboards shortcuts
+
+[![Demo: how to set up / change PoziTone keyboards shortcuts](https://cloud.githubusercontent.com/assets/8120840/3534585/e3b12b5a-07ed-11e4-82e5-4aa4322a9484.png)](https://cloud.githubusercontent.com/assets/8120840/3534596/406df71a-07ee-11e4-85f0-42cf01bff5e3.gif)
 
 ### Global keyboard shortcuts (outside of the browser window)
 
