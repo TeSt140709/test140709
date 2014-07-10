@@ -97,8 +97,11 @@ By default, while the browser is not in the foreground, the shortcut will be ina
 
 As of version 35 (Chrome), you can make the shortcuts work even when the browser is not in the foreground:
 
-1-5 from the instructions above.
-6. Change “In Chrome” to “Global”.
+See steps 1-5 from the instructions above.
+
+6. Change “In Chrome” to “Global”.
+
+7. Click on “OK”.
 
 
 Gratitudes
