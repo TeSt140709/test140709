@@ -116,7 +116,7 @@ Credits
 --------
 
 - Иконки кнопок — [Gentleface Mono Icon Set](http://gentleface.com/free_icon_set.html), [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/).
-- Иконка Play — [Michael Rowe](http://www.thenounproject.com/Mikhail1986), [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/us/).
+- Иконка [Play](http://thenounproject.com/term/play/5206/) — [Michael Rowe](http://www.thenounproject.com/Mikhail1986), [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/us/).
 - Оформление страниц «Настройки `PoziTone`» и «Последние треки»:
   * Copyright 2014 The Chromium Authors. All rights reserved.
   * Use of this source code is governed by a BSD-style license that can be found in the [LICENSE](http://src.chromium.org/viewvc/chrome/trunk/src/LICENSE) file.
