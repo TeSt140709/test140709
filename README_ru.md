@@ -32,6 +32,7 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 
 * [Онлайн-радио 101.ru](http://101.ru) (основной плеер станций).
 * [ВКонтакте](https://vk.com) (аудиозаписи, полная версия сайта).
+* [Digitally Imported](http://www.di.fm) (скоро).
 
 Список будет пополняться...
 
