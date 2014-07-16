@@ -48,7 +48,7 @@ Installation
 Done!
 
 
-### Other method
+### Another method
 
 #### for Google Chrome
 
@@ -157,7 +157,7 @@ Please share your ideas. Don't be shy to ask questions. Bug reports are valuable
 - [Recommended method](http://feedback.pozitone.com/?lang=en)
 - [One more method](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=en)
 - [Geeks method](https://github.com/poziworld/pozitone/issues)
-- [Other](mailto:feedback@pozitone.com)
+- [Another one](mailto:feedback@pozitone.com)
 
 
 Let's socialize
