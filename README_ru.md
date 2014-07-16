@@ -107,7 +107,7 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 
 - Всем тем, кто дарит нам жизнь и радость!
 - Вдохновителям и тестировщикам `PoziTone`: Дарье, Евгению, Mel, Nike, Сергею.
-- [UserEcho](https://userecho.com) — за отличный сервис, доброту и великодушие!
+- [UserEcho](https://userecho.com/?pcode=1014487) — за отличный сервис, доброту и великодушие!
 - Google, Inc. — за все прекрасные проекты.
 - 101.ru — за возможность бесплатно и легально слушать музыку.
 
@@ -131,6 +131,7 @@ Credits
 Пожалуйста, поделитесь своими идеями. Не стесняйтесь задавать вопросы. Сообщения об ошибках ценны! Нам нравится похвала, кому нет? :)
 
 - [Рекомендованный метод](http://feedback.pozitone.com/?lang=ru)
+- [Интернет-магазин Chrome](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=ru)
 - [Метод для гиков](https://github.com/poziworld/pozitone/issues)
 - [Другой](mailto:feedback@pozitone.com)
 
