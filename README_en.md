@@ -39,7 +39,18 @@ More to come...
 
 Installation
 --------
-### for Google Chrome
+### Easy method
+
+1. Go to [PoziTone in the Chrome Web Store](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/details?hl=en) page.
+2. Click on “FREE”.
+3. Then “Add”.
+
+Done!
+
+
+### Other method
+
+#### for Google Chrome
 
 1. Download [the latest available version of `PoziTone`](https://github.com/poziworld/pozitone/archive/develop.zip).
 2. Extract it to any folder.
@@ -50,14 +61,14 @@ Installation
 If all the steps are done correctly, `PoziTone` will appear in the Extensions list.
 
 
-### for Yandex
+#### for Yandex
 
 All the steps are the same as [for Google Chrome](#for-google-chrome), except step 3:
 
    3\. Open “Yandex Browser settings” menu, expand “Advanced” submenu, go to “Tools”, then “Extensions”.
 
 
-### for Amigo
+#### for Amigo
 
 All the steps are the same as [for Google Chrome](#for-google-chrome), except step 3:
 
@@ -124,6 +135,18 @@ Credits
 - All trademarks used (trade names, logos, brands, names, service marks, etc.) are the property of their respective owners.
 
 
+Privacy
+--------
+
+This extension does not store/save or transmit any of your personal data (e.g., logins, passwords, messages, contacts) from any of the sites or your computer in absolutely any form.
+
+
+Are you a developer?
+--------
+
+Want to add a support for your favorite player and publish it as a `PoziTone` module under your name? — Check back, we will soon share a PoziTone API draft.
+
+
 Feedback
 --------
 
@@ -132,7 +155,7 @@ We appreciate your feedback!
 Please share your ideas. Don't be shy to ask questions. Bug reports are valuable! We like praises, who doesn't? :)
 
 - [Recommended method](http://feedback.pozitone.com/?lang=en)
-- [Chrome Web Store](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=en-US)
+- [One more method](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=en)
 - [Geeks method](https://github.com/poziworld/pozitone/issues)
 - [Other](mailto:feedback@pozitone.com)
 
