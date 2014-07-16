@@ -39,7 +39,17 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 
 Установка
 --------
-### для Google Chrome
+### Простой способ
+
+1. Перейдите на страницу [PoziTone в Интернет-магазине Chrome](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/details?hl=ru).
+2. Нажмите на кнопку «БЕСПЛАТНО».
+3. Затем — «Добавить».
+
+Готово!
+
+### Другой способ
+
+#### для Google Chrome
 
 1. Скачайте [последнюю доступную версию `PoziTone`](https://github.com/poziworld/pozitone/archive/develop.zip).
 2. Разархивируйте в любую папку.
@@ -50,14 +60,14 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 Если все шаги выполнены верно, `PoziTone` появится в списке Расширений.
 
 
-### для Yandex
+#### для Yandex
 
 Все шаги такие же, как [для Google Chrome](#для-google-chrome), кроме шага 3:
 
    3\. Откройте меню «Настройки браузера Yandex», раскройте подменю «Дополнительно», перейдите в «Инструменты», затем «Расширения».
 
 
-### для Амиго
+#### для Амиго
 
 Все шаги такие же, как [для Google Chrome](#для-google-chrome), кроме шага 3:
 
@@ -124,6 +134,18 @@ Credits
 - Все использованные товарные знаки (торговые марки, логотипы, бренды, названия, знаки обслуживания и т.д.) принадлежат их законным владельцам.
 
 
+Конфиденциальность
+--------
+
+Это расширение не хранит и не передаёт Ваши личные данные (например, логины, пароли, сообщения, контакты), связанные с какими-либо сайтами в какой-либо форме, а также с компьютера.
+
+
+Вы — разработчик?
+--------
+
+Хотите добавить поддержку Вашего любимого плеера и опубликовать это в качестве модуля `PoziTone` под своим именем? — Следите, мы скоро поделимся черновиком PoziTone API.
+
+
 Обратная связь
 --------
 
@@ -132,7 +154,7 @@ Credits
 Пожалуйста, поделитесь своими идеями. Не стесняйтесь задавать вопросы. Сообщения об ошибках ценны! Нам нравится похвала, кому нет? :)
 
 - [Рекомендованный метод](http://feedback.pozitone.com/?lang=ru)
-- [Интернет-магазин Chrome](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=ru)
+- [Ещё один метод](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=ru)
 - [Метод для гиков](https://github.com/poziworld/pozitone/issues)
 - [Другой](mailto:feedback@pozitone.com)
 
