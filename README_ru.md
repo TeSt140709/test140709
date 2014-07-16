@@ -47,6 +47,7 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 
 Готово!
 
+
 ### Другой способ
 
 #### для Google Chrome
