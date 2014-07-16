@@ -32,7 +32,7 @@ Supported players
 
 * [Online radio 101.ru](http://101.ru) (stations' main player).
 * [VK](https://vk.com) (audio, full version of site).
-* Digitally Imported (coming soon).
+* [Digitally Imported](http://www.di.fm) (coming soon).
 
 More to come...
 
