@@ -117,22 +117,22 @@ As of version 35 (Chrome), you can make the shortcuts work even when the browser
 Gratitudes
 --------
 
-- To all those who give us life and happiness!
-- To the inspirers and testers of `PoziTone`: Darya, Evgeny, Mel, Nike, Sergey.
-- [UserEcho](https://userecho.com/?pcode=1014487) — for the excellent service, kindness and generosity!
-- Google, Inc. — for all their excellent projects.
-- 101.ru — for a chance to listen to music for free and legally.
+— To all those who give us life and happiness!
+— To the inspirers and testers of `PoziTone`: Darya, Evgeny, Mel, Nike, Sergey.
+— [UserEcho](https://userecho.com/?pcode=1014487) — for the excellent service, kindness and generosity!
+— Google, Inc. — for all their excellent projects.
+— 101.ru — for a chance to listen to music for free and legally.
 
 
 Credits
 --------
 
-- The button icons — [Gentleface Mono Icon Set](http://gentleface.com/free_icon_set.html), Gentleface, [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/).
-- [The Play icon](http://thenounproject.com/term/play/5206/) — Michael Rowe, [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/us/).
-- The appearance of the «`PoziTone` Options» and «Recent Tracks» pages:
+— The button icons — [Gentleface Mono Icon Set](http://gentleface.com/free_icon_set.html), Gentleface, [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/).
+— [The Play icon](http://thenounproject.com/term/play/5206/) — Michael Rowe, [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/us/).
+— The appearance of the «`PoziTone` Options» and «Recent Tracks» pages:
   * Copyright 2014 The Chromium Authors. All rights reserved.
   * Use of this source code is governed by a BSD-style license that can be found in the [LICENSE](http://src.chromium.org/viewvc/chrome/trunk/src/LICENSE) file.
-- All trademarks used (trade names, logos, brands, names, service marks, etc.) are the property of their respective owners.
+— All trademarks used (trade names, logos, brands, names, service marks, etc.) are the property of their respective owners.
 
 
 Privacy
@@ -154,10 +154,10 @@ We appreciate your feedback!
 
 Please share your ideas. Don't be shy to ask questions. Bug reports are valuable! We like praises, who doesn't? :)
 
-- [Recommended method](http://feedback.pozitone.com/?lang=en)
-- [One more method](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=en)
-- [Geeks method](https://github.com/poziworld/pozitone/issues)
-- [Another one](mailto:feedback@pozitone.com)
+— [Recommended method](http://feedback.pozitone.com/?lang=en)
+— [One more method](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=en)
+— [Geeks method](https://github.com/poziworld/pozitone/issues)
+— [Another one](mailto:feedback@pozitone.com)
 
 
 Contribution
@@ -174,9 +174,9 @@ If you know any foreign language or just noticed the discrepancy in the translat
 Let's socialize
 --------
 
-- [PoziTone on VK](https://vk.com/PoziTone)
-- [PoziTone on Facebook](http://fb.com/PoziTone)
-- [PoziTone on Twitter](https://twitter.com/PoziTone)
-- [PoziTone on Instagram](https://instagram.com/PoziTone)
-- [PoziTone on Google+](https://google.com/+PoziTone)
-- [PoziTone on 101.ru](https://101.ru/?an=User_Info&userId=709962)
+— [PoziTone on VK](https://vk.com/PoziTone)
+— [PoziTone on Facebook](http://fb.com/PoziTone)
+— [PoziTone on Twitter](https://twitter.com/PoziTone)
+— [PoziTone on Instagram](https://instagram.com/PoziTone)
+— [PoziTone on Google+](https://google.com/+PoziTone)
+— [PoziTone on 101.ru](https://101.ru/?an=User_Info&userId=709962)
