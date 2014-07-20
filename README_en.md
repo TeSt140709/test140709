@@ -41,7 +41,7 @@ Installation
 --------
 ### Easy method
 
-1. Go to [PoziTone in the Chrome Web Store](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/details?hl=en) page.
+1. Go to a [PoziTone in the Chrome Web Store](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/details?hl=en) page.
 2. Click on “FREE”.
 3. Then “Add”.
 
@@ -158,6 +158,17 @@ Please share your ideas. Don't be shy to ask questions. Bug reports are valuable
 - [One more method](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/reviews?hl=en)
 - [Geeks method](https://github.com/poziworld/pozitone/issues)
 - [Another one](mailto:feedback@pozitone.com)
+
+
+Contribution
+--------
+### Translation
+
+Sprechen Sie Deutsch? Vous parlez français?
+
+We want as many `PoziTone` users as possible to be able to interact with the extension in their native language.
+
+If you know any foreign language or just noticed the discrepancy in the translation, please let us know — https://www.transifex.com/projects/p/pozitone/.
 
 
 Let's socialize
