@@ -80,7 +80,7 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 
 Откройте понравившуюся из [Списка станций](http://101.ru/?an=port_allchannels).
 
-При каждой смене трека `PoziTone` - перед Вами в полной красе. :)
+При каждой смене трека `PoziTone` — перед Вами в полной красе. :)
 
 
 Быстрые клавиши
@@ -122,6 +122,9 @@ PoziTone ![PoziTone](/img/pozitone-icon-48.png)
 - [UserEcho](https://userecho.com/?pcode=1014487) — за отличный сервис, доброту и великодушие!
 - Google, Inc. — за все прекрасные проекты.
 - 101.ru — за возможность бесплатно и легально слушать музыку.
+- Переводчикам:
+  - испанский — Paco_Zamo (Francisco Zamorano);
+  - польский — jurczak (Łukasz Jurczak).
 
 
 Credits
