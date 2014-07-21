@@ -1,15 +1,17 @@
 > Это английская версия, см. [HISTORY_ru.md](HISTORY_ru.md) для русской.
 
 ### v0.1.2.3
-    * New available button – “Previous track” (only for VK). 
+    * New available button – “Previous track” (only for VK).
+      We recommend you set the keyboard shortcut to Alt+Shift+B (see demo below).
       Idea by Samson Karapetyan, Ilya Ilya.
+[![Demo: PoziTone keyboards shortcuts, “Previous track”](https://cloud.githubusercontent.com/assets/8120840/3534655/a7c7ce58-07ef-11e4-89a5-c7b52e92b943.png)](https://cloud.githubusercontent.com/assets/8120840/3639683/95db0482-1085-11e4-8211-83bfb09c3d9b.gif)
 
 ### v0.1.2.2
-    * PoziTone is now available in Polish. 
+    * PoziTone is now available in Polish.
       Translation by jurczak (Łukasz Jurczak).
 
 ### v0.1.2.1
-    * PoziTone is now available in Spanish. 
+    * PoziTone is now available in Spanish.
       Translation by Paco_Zamo (Francisco Zamorano).
 
 ### v0.1.2.0
