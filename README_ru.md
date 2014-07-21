@@ -2,9 +2,9 @@
 
 ### v0.1.2.3
     * Новая доступная кнопка - «Предыдущий трек» (только для ВКонтакте).
-      Рекомендуем назначить сочетание клавиш Alt+Shift+B (см. как — ).
+      Рекомендуем назначить сочетание клавиш Alt+Shift+B (см. демо ниже как).
       Идея — Самсон Карапетян, Илья Илья.
-[![Демо: как настроить (изменить) быстрые клавиши PoziTone](https://cloud.githubusercontent.com/assets/8120840/3534585/e3b12b5a-07ed-11e4-82e5-4aa4322a9484.png)](https://cloud.githubusercontent.com/assets/8120840/3534596/406df71a-07ee-11e4-85f0-42cf01bff5e3.gif)
+[![Демо: быстрые клавиши PoziTone, «Предыдущий трек»](https://cloud.githubusercontent.com/assets/8120840/3534585/e3b12b5a-07ed-11e4-82e5-4aa4322a9484.png)](https://cloud.githubusercontent.com/assets/8120840/3639684/9b23215e-1085-11e4-91bd-6c7b19e08654.gif)
 
 ### v0.1.2.2
     * PoziTone теперь доступен на польском языке.
